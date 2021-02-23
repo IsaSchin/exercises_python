@@ -1,0 +1,5 @@
+print ("Hello World")
+num1 = float(input ("Digite um número: "))
+num2 = float(input("Digite um segundo número: "))
+res = max(num1, num2)
+print (f"o maior número digitado foi: {res}")
