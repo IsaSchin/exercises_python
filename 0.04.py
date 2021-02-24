@@ -1,5 +1,8 @@
-print ("Hello World")
+print ("Hello World") # pode remover essa linha
 x = input("Digite uma letra: ")
+
+# vale a mesma dica de otimização do exercicio anterior :)
+# depois te mostro como reduzir tudo isso com um unico if
 
 if x == "A":
     print ("Sua letra é vogal")
@@ -28,3 +31,5 @@ elif x == "u":
 
 else:
     print ("Sua letra é consoante")
+
+# exercicio correto o/
