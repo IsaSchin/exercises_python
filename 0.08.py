@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Hello World") # pode remover essa linha
 product_one = float(input("Digite o valor do produto 1: "))
 product_two = float(input("Digite o valor do produto 2: "))
 product_three = float(input("Digite o valor do produto 3: "))
@@ -10,3 +10,5 @@ elif resp == product_two:
     print ("O produto a ser comprado, deverá ser o produto 2")
 else:
     print ("O produto a ser comprado, deverá ser o produto 3")
+    
+# correto o/
