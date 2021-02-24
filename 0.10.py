@@ -1,5 +1,8 @@
-print ("Hello world")
+print ("Hello world") # pode remover essa linha
+
 turno = input("Qual o período em que você estuda? Digite M para matutino, V para vespertino e N para noturno: ")
+
+# mesma dica dos outros exercicios com varios elif :)
 
 if turno == "M":
     print ("Bom dia!")
@@ -15,3 +18,5 @@ elif turno == "n":
     print ("Boa noite!")
 else:
     print ("Valor inválido!")
+    
+# correto o/
