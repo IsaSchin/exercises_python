@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Exercício 2")
 num = float(input("Digite o seu número: "))
 
 if num > 0:

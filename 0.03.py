@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Exercício 3")
 genero = input("Digite seu genero (F / M / não quero definir): ")
 
 if genero == "F":

@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Exercício 5")
 a = float(input("Nota parcial 1: "))
 b = float(input("Nota parcial 2: "))
 

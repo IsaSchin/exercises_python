@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Exercício 8")
 product_one = float(input("Digite o valor do produto 1: "))
 product_two = float(input("Digite o valor do produto 2: "))
 product_three = float(input("Digite o valor do produto 3: "))
