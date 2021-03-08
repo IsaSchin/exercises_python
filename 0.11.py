@@ -1,6 +1,5 @@
 print ("Exercício 11")
 num = int(input("Digite um número: "))
-for x in range(num):
+for x in range(num +1):
     print (x)
-else:
-    print ("fim")
+print ("fim")
